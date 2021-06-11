@@ -4,7 +4,7 @@
 
 <ul>
   コマンド
-npx npm install @typescript-eslint/parser@4.1.0　(versionは4.2.0未満であること)
-npx yarn add -D @types/react
+npx npm install @typescript-eslint/parser@4.1.0　(versionは4.2.0未満であること)<br>
+npx yarn add -D @types/react <br>
 npx yarn add eslint-config-react-app
 </ul>
