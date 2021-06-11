@@ -3,7 +3,7 @@
 ## Udemyで学習中
 
 <ul>
-  コマンド
+  コマンド<br>
 npx npm install @typescript-eslint/parser@4.1.0　(versionは4.2.0未満であること)<br>
 npx yarn add -D @types/react <br>
 npx yarn add eslint-config-react-app
