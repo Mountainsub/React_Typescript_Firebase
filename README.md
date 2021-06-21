@@ -8,3 +8,8 @@ npx npm install @typescript-eslint/parser@4.1.0　(versionは4.2.0未満であ�
 npx yarn add -D @types/react <br>
 npx yarn add eslint-config-react-app
 </ul>
+<ul>
+  コマンド<br>
+npx yarn add firebase-tools<br>
+npx yarn add firebase <br>
+</ul>
