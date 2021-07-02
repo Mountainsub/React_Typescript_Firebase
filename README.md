@@ -1,4 +1,4 @@
-<img src = "https://user-images.githubusercontent.com/70077254/121601938-8f60a680-ca81-11eb-9a25-5e3ed482b1a6.PNG" display = flex>
+<img src = "https://user-images.githubusercontent.com/70077254/121601938-8f60a680-ca81-11eb-9a25-5e3ed482b1a6.PNG" text-align = center>
 ![type](https://user-images.githubusercontent.com/70077254/122793080-bfb40a80-d2f5-11eb-980f-0607c005ad06.PNG)
 # React_Typescript_Firebase
 
